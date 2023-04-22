@@ -1,2 +1,2 @@
 # Nebula-Nuker
-<p>I love <a target="_blank" href="https://www.freecodecamp.org/">freeCodeCamp</a></p>
+<a href="https://en.wikipedia.org/wiki/Cat"><img src="drawing.jpg" alt="https://i.imgur.com/FYPuBu4.png" width="200"/></a>
