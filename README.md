@@ -4,6 +4,10 @@
 <br>
 ⭐️ Buy premium to get source code
 
+# Instructions 
+
+Click the purple download button at the top and open the exe, it will automatically install all nessecary files.
+
 # Preview
 
 <img src="https://i.imgur.com/c4dxbmR.png" alt="Preview" width="700"/>
