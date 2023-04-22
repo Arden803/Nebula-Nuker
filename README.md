@@ -1,2 +1,2 @@
 # Nebula-Nuker
-<img src="https://i.imgur.com/FYPuBu4.png" alt="drawing" width="100"/>
+<p>I love <a target="_blank" href="https://www.freecodecamp.org/">freeCodeCamp</a></p>
