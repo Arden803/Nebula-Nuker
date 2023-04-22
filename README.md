@@ -1,2 +1,2 @@
 # Nebula-Nuker
-![smiley](https://i.imgur.com/FYPuBu4.png){height="36px" width="36px"}
+<img src="https://i.imgur.com/FYPuBu4.png" alt="drawing" width="200"/>
