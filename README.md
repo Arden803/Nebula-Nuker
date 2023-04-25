@@ -1,6 +1,5 @@
 # Download
-<img src="https://i.imgur.com/LIqzIMv.png" alt="background"/>
-<a href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.imgur.com/FYPuBu4.png" alt="Download" width="100"/></a> <a href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.imgur.com/O51YU9n.png" alt="Download" width="100"/></a> <a href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.imgur.com/TlSMCYA.png" alt="Premium" width="100"/></a>
+<img src="https://i.imgur.com/FYPuBu4.png" alt="Download" width="100"/></a> <a href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.imgur.com/O51YU9n.png" alt="Download" width="100"/></a> <a href="https://en.wikipedia.org/wiki/Cat"><img src="https://i.imgur.com/TlSMCYA.png" alt="Premium" width="100"/></a>
 <br>
 ⭐️ Buy premium to get source code
 
